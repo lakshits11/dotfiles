@@ -1,0 +1,8 @@
+package cd
+package fasd
+package https://github.com/jhillyerd/plugin-git
+package https://github.com/jorgebucaran/autopair.fish
+package z
+theme cyan
+theme default
+theme robbyrussell
