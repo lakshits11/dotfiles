@@ -1,0 +1,22 @@
+{
+	"suggest.noselect": false,
+	"suggest.autoTrigger": "always",
+	"suggest.echodocSupport": true,
+	"coc.preferences.formatOnSaveFiletypes": [
+		"css",
+		"markdown",
+		"html",
+		"javascript",
+		"cpp",
+		"c",
+		"py",
+		"java",
+		"ts",
+		"jsx",
+		"javascriptreact",
+		"json"
+	],
+	"suggest.maxPreviewWidth": 80,
+	"suggest.labelMaxLength": 80,
+	"dialog.maxWidth": 80
+}
