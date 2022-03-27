@@ -172,6 +172,9 @@ set hlsearch "highlights matching searches
 
 "clears highlights
 nnoremap // :noh<return>
+" duplicate line below
+nnoremap dc :t.<return>
+
 " moves current line down or up
 nnoremap <A-Down> ddkP
 nnoremap <leader>- ddp
